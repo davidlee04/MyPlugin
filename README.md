@@ -1,2 +1,0 @@
-# MyPlugin
-SMP Plugin

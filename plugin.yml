@@ -1,0 +1,15 @@
+name: MyPlugin
+main: Plugin.MainPlugin
+version: 1.0
+api-version: 1.16
+commands:
+   bal:
+      description: Shows balance
+      usage: /bal
+      aliases: credits
+   pay:
+      description: Pay another player
+      usage: /pay player amount
+   shop:
+      description: Opens shop
+      usage: /shop
